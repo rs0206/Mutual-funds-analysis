@@ -30,7 +30,7 @@ This project addresses the challenge of selecting optimal mutual funds for retai
 - Missing value imputation (median/mode)
 - Label Encoding for categorical features
 - Outlier clipping using IQR
-- Feature Engineering: Risk-adjusted return, size/age categories
+- Feature Engineering: Risk-adjusted return, size/age categories.
 
 ### ✅ Models Used
 | Task | Models |
