@@ -48,7 +48,7 @@ This project addresses the challenge of selecting optimal mutual funds for retai
 - 📉 Actual vs Predicted 1Y Return (RQ3)
 - 🔥 Correlation Heatmap & Distribution Charts
 
----
+----
 
 ## 🗂️ Project Structure
 
