@@ -1,4 +1,4 @@
-# 🧠 Smart Mutual Fund Analyzer
+# 🧠 Smart Mutual Fund Analyzer for Personalized Fund Insights & Forecasting
 *A Machine Learning Project for Personalized Fund Insights & Forecasting*
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen)
